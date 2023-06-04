@@ -1,0 +1,136 @@
+{
+  "version": "1.9.2",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "2IMJD",
+      "url": "board-2-2IMJD.png",
+      "newShot": false,
+      "lastEdited": 1549795766707,
+      "layers": {
+        "reference": {
+          "url": "board-2-2IMJD-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "duration": "7000"
+    },
+    {
+      "uid": "0THEY",
+      "url": "board-3-0THEY.png",
+      "newShot": false,
+      "lastEdited": 1549795767194,
+      "layers": {
+        "reference": {
+          "url": "board-3-0THEY-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 7000,
+      "duration": "7000"
+    },
+    {
+      "uid": "MCWM7",
+      "url": "board-4-MCWM7.png",
+      "newShot": false,
+      "lastEdited": 1549795767746,
+      "layers": {
+        "reference": {
+          "url": "board-4-MCWM7-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 14000,
+      "duration": "7000"
+    },
+    {
+      "uid": "19JE8",
+      "url": "board-5-19JE8.png",
+      "newShot": false,
+      "lastEdited": 1549795768161,
+      "layers": {
+        "reference": {
+          "url": "board-5-19JE8-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 21000,
+      "duration": "7000"
+    },
+    {
+      "uid": "YL1P7",
+      "url": "board-6-YL1P7.png",
+      "newShot": false,
+      "lastEdited": 1549795768571,
+      "layers": {
+        "reference": {
+          "url": "board-6-YL1P7-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 28000,
+      "duration": "7000"
+    },
+    {
+      "uid": "B6BV9",
+      "url": "board-7-B6BV9.png",
+      "newShot": false,
+      "lastEdited": 1549795768896,
+      "layers": {
+        "reference": {
+          "url": "board-7-B6BV9-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 35000,
+      "duration": "7000"
+    },
+    {
+      "uid": "KPSYJ",
+      "url": "board-9-KPSYJ.png",
+      "newShot": false,
+      "lastEdited": 1549795769743,
+      "layers": {
+        "reference": {
+          "url": "board-9-KPSYJ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 7,
+      "shot": "7A",
+      "time": 42000,
+      "duration": "7000"
+    },
+    {
+      "uid": "7SPQJ",
+      "url": "board-8-7SPQJ.png",
+      "newShot": false,
+      "lastEdited": 1549795769382,
+      "layers": {
+        "reference": {
+          "url": "board-8-7SPQJ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 8,
+      "shot": "8A",
+      "time": 49000,
+      "duration": "7000"
+    }
+  ]
+}
